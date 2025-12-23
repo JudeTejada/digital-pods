@@ -2,6 +2,7 @@
 
 A digital sales room application that allows users to dynamically create, edit, and manage independent text widgets within a pod. Each widget maintains its own state and persists data across page refreshes.
 
+
 ## Features
 
 - Add multiple text widgets dynamically
@@ -9,6 +10,13 @@ A digital sales room application that allows users to dynamically create, edit, 
 - Persistent storage via backend API
 - Delete widgets when no longer needed
 - Support for long text (1000+ characters)
+
+For Additional Info, refer to:
+https://github.com/JudeTejada/digital-pods/blob/main/overview.md
+
+
+
+
 
 ## Prerequisites
 
